@@ -13,3 +13,9 @@
 - [ ] Formularios.
 
 ## Etiquetas Indispensables
+
+| Etiqueta  | Descripción |
+| :-------: | ----------  |
+| [`<html>`](https://developer.mozilla.org/es/docs/Web/HTML/Element/html) | Representa la raíz de un documento.|
+| [`<head>`](https://developer.mozilla.org/es/docs/Web/HTML/Element/head) | Provee información general (metadatos) acerca del documento. |
+| [`<body>`](https://developer.mozilla.org/es/docs/Web/HTML/Element/body)| Representa el contenido de un documento HTML |
