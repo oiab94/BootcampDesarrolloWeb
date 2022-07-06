@@ -7,6 +7,7 @@
 #--------------#
 a = 5
 b = 4
+c = 6
 print('\nSentencia IF')
 if (a > b):
 	print('El código se ejecuta dentro del IF')
@@ -20,3 +21,14 @@ if (a > b):
 	print('A > B')
 else:
 	print('B > A')
+
+#----------------#
+# Sentencia elif #
+#----------------#
+print('\nSentencia ELIF')
+if (a > b):
+	print('A > B')
+elif (a > c):
+	print('A > C')
+else:
+	print('A no es el mayor')
